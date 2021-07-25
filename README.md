@@ -44,7 +44,7 @@ Para realizar a reprodução do que o projeto tem a oferecer, é necessário que
 
 Primeiro é necessário realizar o clone do repositório em sua maquina através do comando abaixo no seu terminal **git bash**.
 
-`git clone https://github.com/Jornay/API_IntegrationPipedriveBling.git`
+`git clone https://github.com/Jornay/API_IntegrationPipedrive.git`
 
 <br>
 Após isso, se direcione pelo terminal onde a pasta onde o projeto foi clonada e baixe todas as dependências utilizadas com o simples comando:
