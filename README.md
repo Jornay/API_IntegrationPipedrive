@@ -5,7 +5,10 @@
 
 ## 📃 **Sobre**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Esse projeto se consiste na criação de uma aplicação que tem a capacidade de realizar a coleta de dodos com status de pedido **Ganho** do aplicativo **Pipedrive** e salvando os mesmos no banco de dados não relacional MongoDB. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Esse projeto se consiste na criação de uma aplicação que tem a capacidade de realizar a coleta de dodos com status de pedido **Ganho** do aplicativo **Pipedrive** e salvando os mesmos no banco de dados não relacional MongoDB. 
+
+**Obs.:Esse teste não foi finalizado, restou ser produzida a parte referente ao salvamento dos dados na plataforma Bling**
+<br>
 
 <br>
 
