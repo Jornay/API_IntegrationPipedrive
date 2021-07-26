@@ -73,6 +73,4 @@ E ele esta funcionando na sua maquina! 🚀🚀
 <br>
 
 ---
-## 🔧 Molde da API produzida por Rocketseat
----
 ### Desenvolvido por [Lucas de Abreu](https://github.com/Jornay) 
